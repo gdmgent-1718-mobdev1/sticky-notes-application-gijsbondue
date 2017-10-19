@@ -1,0 +1,22 @@
+.stickyNote{
+    width: 300px;
+    height: 90px;
+    background-color: #ffffcc;
+    padding: 10px; 
+    margin: 5px;
+    float: left;
+    border-radius: 15px;
+
+}
+.delete{
+    height: 30px;
+    width: 30px;
+    align-self: right;
+    margin-left: 260px;
+}
+
+#created{
+    text-align: 10px 250px 10px 10px;
+    position: relative;
+
+}
